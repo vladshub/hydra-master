@@ -1,2 +1,2 @@
 # hydra-master
-A Central console to control the mydra
+A Central console to control the hydra
